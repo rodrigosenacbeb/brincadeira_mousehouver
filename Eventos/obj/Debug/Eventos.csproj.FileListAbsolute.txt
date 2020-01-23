@@ -1,0 +1,9 @@
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\Eventos\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\Eventos\Eventos\bin\Debug\Eventos.exe
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\Eventos\Eventos\bin\Debug\Eventos.pdb
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\Eventos\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\Eventos\Eventos\obj\Debug\Eventos.Form1.resources
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\Eventos\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\Eventos\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\Eventos\Eventos\obj\Debug\Eventos.exe
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\Eventos\Eventos\obj\Debug\Eventos.pdb
